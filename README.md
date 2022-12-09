@@ -4,6 +4,7 @@ Josh Wardle is the original creator of Wordle and is now owned by the New York T
 Play it online here: https://www.nytimes.com/games/wordle/index.html.  
 OR...
 Play logos64 on the C64 by downloading the d64 disk image here!
+See a demo at: https://youtu.be/6k7bX2oStkc
 
 ## why logos?
 The Greek word "logos" as it appears in the Bible (the book of John in the New Testament) was translated into english word, "word".  The actual meaning of "logos" is much more than "word" in the context of Wordle. A better translation of "logos" is the word of God. So, perhaps logos isn't the best name for this version of Wordle, but I like it because it's catchy. 
