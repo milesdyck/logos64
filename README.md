@@ -9,8 +9,8 @@ See a demo at: https://youtu.be/r69JtBaMoS4
 ## why logos?
 The Greek word "logos" as it appears in the Bible (the book of John in the New Testament) was translated into english word, "word".  The actual meaning of "logos" is much more than "word" in the context of Wordle. A better translation of "logos" is the word of God. So, perhaps logos isn't the best name for this version of Wordle, but I like it because it's catchy. 
 
-## play it now
-dowload the logos2023.d64 disk image and use the VICE C64 emulator (https://vice-emu.sourceforge.io/) or your own c64 to play it. It works with a pi1541 emulator, but I have not tested the game using a s2deic, real 1541 floppy drive or other disk drive substitute. 
+## play it now - Release 1.0.1
+dowload the logos2023v101.d64 disk image and use the VICE C64 emulator (https://vice-emu.sourceforge.io/) or your own c64 to play it. It works with a pi1541 emulator, but I have not tested the game using a s2deic, real 1541 floppy drive or other disk drive substitute. 
 
 ## development notes
 I am a bit late to the party. There are other examples of Wordle for the C64 available (just ask Google). 
@@ -26,7 +26,7 @@ The daily game prompts the player to ener the date and chooses pre-selected word
 The players name and cumulative play statistics are stored in the scores.rel file.
 
 ## code files
-logos2023.bas - the main code for the game
+logos2023v101.bas - the main code for the game
 cre82023words.bas, cre8words.bas and cre8scores.bas contain the code used to create the supporting 2023words, words and scores relative files accessed by the game. In addition, there are PDF files of the PETSCII listings as you would see in the built-in c64 text editor.
 
 ## future development 
