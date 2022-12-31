@@ -9,8 +9,8 @@ See a demo at: https://youtu.be/r69JtBaMoS4
 ## why logos?
 The Greek word "logos" as it appears in the Bible (the book of John in the New Testament) was translated into english word, "word".  The actual meaning of "logos" is much more than "word" in the context of Wordle. A better translation of "logos" is the word of God. So, perhaps logos isn't the best name for this version of Wordle, but I like it because it's catchy. 
 
-## play it now - Release 1.0.1 
-https://github.com/milesdyck/logos64/releases/tag/v1.0.1
+## play it now - Release 1.0.2 
+https://github.com/milesdyck/logos64/releases/tag/v1.0.2
 Dowload the logos2023v101.d64 disk image and use the VICE C64 emulator (https://vice-emu.sourceforge.io/) or your own c64 to play it. It works with a pi1541 emulator, but I have not tested the game using a s2deic, real 1541 floppy drive or other disk drive substitute. 
 
 ## development notes
