@@ -6,8 +6,8 @@ OR...
 Play logos64 on the C64 by downloading the d64 disk image here!
 See a demo at: https://youtu.be/r69JtBaMoS4
 
-## Vision Basic v2.0.0
-With help from Dennis Osborn, creator of Vision Basic, I have ported the code to Vision Basic (https://visionbasic.net/). This version is available on the disk image in logos2023v200.zip available for download above. LOAD"*",8 for the binary executable file. 
+## Latest version (v2.0.0) in VISION BASIC 
+With help from Dennis Osborn, creator of VISION BASIC, I have ported the code to VISION BASIC (https://visionbasic.net/). This version is available on the disk image in logos2023v200.zip available for download above. LOAD"*",8 for the binary executable file. 
 
 ## why logos?
 The Greek word "logos" as it appears in the Bible (the book of John in the New Testament) was translated into english word, "word".  The actual meaning of "logos" is much more than "word". A better translation of "logos" is the word of God. So, perhaps "logos" isn't the best name for this version of Wordle, but I like it because it's catchy. 
