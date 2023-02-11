@@ -27,6 +27,7 @@ The players name and cumulative play statistics are stored in the scores.rel fil
 ## code files
 logos2023v201.visPETSCII.pdf - the Vision BASIC code for the latest release   
 logos2023v102PETSCII.pdf - the BASIC V2 code
+
 cre82023words.bas, cre8words.bas and cre8scores.bas contain the code used to create the supporting 2023words, words and scores relative files accessed by the game. In addition, there are PDF files of the PETSCII listings as you would see in the built-in c64 text editor.
 
 
