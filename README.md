@@ -4,7 +4,7 @@ Josh Wardle is the original creator of Wordle and is now owned by the New York T
 Play it online here: https://www.nytimes.com/games/wordle/index.html.  
 OR...
 Play logos64 on the C64 by downloading the d64 disk image here!
-See a demo at: https://youtu.be/r69JtBaMoS4
+See more at: https://visionbasic.weebly.com/logos64.html and https://visionbasic.net/logos64-the-game/
 
 ## Latest version (v2.0.2) in Vision BASIC 
 With help from Dennis Osborn, creator of Vision BASIC, I have ported the code to Vision BASIC (https://visionbasic.net/). This version is available on the disk image in logos2023v201.d64 available for download above. LOAD"*",8 for the executable file. 
