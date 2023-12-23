@@ -14,7 +14,7 @@ The Greek word "logos" as it appears in the Bible (the book of John in the New T
 
 ## development notes
 I am a bit late to the party. There are other examples of Wordle for the C64 available (just ask Google). 
-The original code in v1.0.0, 1.01 and 1.0.2 is in the .bas or PETSCII listing pdf files. Vision Basic code is in v2.0.0, v2.0.1, v2.0.2 files.
+The original code in v1.0.0, 1.01 and 1.0.2 is in the .bas or PETSCII listing pdf files. Vision Basic code is in v2.0.0, v2.0.1, v2.0.2, v2.0.3 files.
 There are many solutions to the Wordle problem.  This is my solution.  I did not consult or borrow any other code.
 
 ## unique features of this version of wordle for the C64
