@@ -7,7 +7,7 @@ Play logos64 on the C64 by downloading the d64 disk image here!
 See more at: https://visionbasic.weebly.com/logos64.html and https://visionbasic.net/logos64-the-game/
 
 ## Latest version (v2.0.3) in Vision BASIC 
-With help from Dennis Osborn, creator of Vision BASIC, I have ported the code to Vision BASIC (https://visionbasic.net/). This version is available on the disk image in logos2024v203.d64 available for download above. LOAD"*",8 for the executable file. Clone scores program to transfer player scores from 2023 disk (image) to 2024 disk (image): LOAD"CLONESCRS.VEX",8  (make a back up of both disk images before executing just to be safe).
+With help from Dennis Osborn, creator of Vision BASIC, I have ported the code to Vision BASIC (https://visionbasic.net/). This version is available on the disk image in logos2024v203.d64 available for download above. LOAD"*",8 for the executable file. A program was added to transfer player scores from 2023 disk (image) to 2024 disk (image): LOAD"CLONESCRS.VEX",8  (make a back up of both disk images before executing just to be safe).
 
 ## why logos?
 The Greek word "logos" as it appears in the Bible (the book of John in the New Testament) was translated into english word, "word".  The actual meaning of "logos" is much more than "word". A better translation of "logos" is the word of God. So, perhaps "logos" isn't the best name for this version of Wordle, but I like it because it's catchy. 
