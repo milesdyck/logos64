@@ -25,7 +25,7 @@ The daily game prompts the player to ener the date and chooses pre-selected word
 The players name and cumulative play statistics are stored in the scores.rel file.
 
 ## code files
-logos2023v202.visPETSCII.pdf - the Vision BASIC code for the latest release   
+logos2024v203.visPETSCII.pdf - the Vision BASIC code for the latest release   
 logos2023v102PETSCII.pdf - the BASIC V2 code
 
 cre8words.prg and cre8scores.prg contain the code used to create the supporting 2023words, words and scores relative files accessed by the game. cre8words2.vis.prg is the Vision BASIC code
