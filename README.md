@@ -6,7 +6,7 @@ OR...
 Play logos64 on the C64 by downloading the d64 disk image here!
 See more at: https://visionbasic.weebly.com/logos64.html and https://visionbasic.net/logos64-the-game/
 
-## Latest version (v2.0.4.2026) in Vision BASIC v1.1 (compiled in VICE v3.9)
+## Latest version (v2.0.4_2026) in Vision BASIC v1.1 (compiled in VICE v3.9)
 With help from Dennis Osborn, creator of Vision BASIC, I have ported the code to Vision BASIC (https://visionbasic.net/). This version is available on the disk image in logos2025v204.d64 available for download above. LOAD"*",8 for the executable file. A program was added to transfer player scores from 2025 disk (image) to 2026 disk (image): LOAD"CLONESCRS.VEX",8  (make a back up of both disk images before executing just to be safe).
 
 ## why logos?
